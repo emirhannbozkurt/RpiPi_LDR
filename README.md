@@ -15,4 +15,4 @@ Projede Kullanılan malzemeler:
 
 Proje dosyası içerisinde Python kodları ve Devre şeması verilmiştir.
 
-Kodlarda küçük değişikler yapılarak istenilen uygulamaya dönderilebilir.
+Kodlarda içerisindeki değerler değiştirilerek eşik değeri istenilen duruma getirilebilir.
